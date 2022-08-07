@@ -1,16 +1,24 @@
-### Hi there 👋
+## imexoodeex
+<h3 align="center">Hi, My nick is <i>imexoodeex</i>. I'm young <strong>React developer</strong>.</h3>
 
-<!--
-**ImExoOdeex/ImExoOdeex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **React and all other frameworks**. I make my web apps with Next.js or Remix - depends on project. I'm using `Chakra-ui` to style my components and `framer-motion` library to make smooth animations for best UX.
 
-Here are some ideas to get you started:
+#### Languages:
+- Typescript
+- Javascript
+- HTML5
+- CSS3
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Frameworks, databases, etc:
+- Remix
+- Next.js
+- Chakra-ui (CSS framework)
+- prisma with SQLITE (ORM)
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imexoodeex&show_icons=true&locale=en&layout=compact" alt="imexoodeex" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imexoodeex&show_icons=true&locale=en" alt="imexoodeex" /></p>
+
