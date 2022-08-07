@@ -10,7 +10,7 @@
 - CSS3
 - Java
 
-#### Frameworks, databases, etc:
+#### Frameworks and stuff:
 - Remix
 - Next.js
 - Chakra-ui (CSS framework)
