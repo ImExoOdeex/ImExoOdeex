@@ -1,5 +1,5 @@
 ## imexoodeex
-<h3 align="center">Hi, My nick is <i>imexoodeex</i>. I'm young <strong>React developer</strong>.</h3>
+<h3 align="center">Hi, I'm <i>imexoodeex</i>. I'm young <strong>React developer</strong>.</h3>
 
 🌱 I’m currently learning **React and all other frameworks**. I make my web apps with Next.js or Remix - depends on project. I'm using `Chakra-ui` to style my components and `framer-motion` library to make smooth animations for best UX.
 
