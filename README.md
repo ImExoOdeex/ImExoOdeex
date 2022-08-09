@@ -3,6 +3,8 @@
 
 🌱 I’m currently learning **React and all other frameworks**. I make my web apps with Next.js or Remix - depends on project. I'm using `Chakra-ui` to style my components and `framer-motion` library to make smooth animations for best UX.
 
+My [polywork profile](https://poly.work/imexoodeex/contact)
+
 #### Languages:
 - Typescript
 - Javascript
