@@ -16,7 +16,8 @@ My [polywork profile](https://poly.work/imexoodeex/contact)
 - Remix
 - Next.js
 - Chakra-ui (CSS framework)
-- prisma with SQLITE (ORM)
+- PostgresSQL
+- Prisma
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imexoodeex&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="imexoodeex" /></p>
 
