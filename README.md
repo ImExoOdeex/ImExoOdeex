@@ -3,6 +3,8 @@
 
 🌱 I’m currently learning **React and all other frameworks**. I make my web apps with Next.js or Remix - depends on project. I'm using `Chakra-ui` to style my components and `framer-motion` library to make smooth animations for best UX.
 
+_Primary coding in Typescript_
+
 My [polywork profile](https://poly.work/imexoodeex/contact)
 
 #### Languages:
@@ -13,10 +15,12 @@ My [polywork profile](https://poly.work/imexoodeex/contact)
 - Java
 
 #### Frameworks and stuff:
+- Express
 - Remix
 - Next.js
-- Chakra-ui (CSS framework)
-- PostgresSQL
+- Chakra-ui
+- Framer motion
+- PostgreSQL
 - Prisma
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imexoodeex&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="imexoodeex" /></p>
