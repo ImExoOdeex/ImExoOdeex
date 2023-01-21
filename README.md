@@ -1,27 +1,18 @@
 ## imexoodeex
-<h3 align="center">Hi, I'm <i>imexoodeex</i>. I'm young <strong>React developer</strong>.</h3>
+<h3 align="center">Hi, I'm <i>imexoodeex</i>, random & young <strong>Software Engineer</strong>.</h3>
 
-🌱 I’m currently learning **React and all other frameworks**. I make my web apps with Next.js or Remix - depends on project. I'm using `Chakra-ui` to style my components and `framer-motion` library to make smooth animations for best UX.
-
-_Primary coding in Typescript_
-
-My [polywork profile](https://poly.work/imexoodeex/contact)
+🦄 I love to code in Typescript and Java. Also I'm practising touch typing on [monkeytype.com](https://monkeytype.com/profile/imexoodeex).
 
 #### Languages:
-- Typescript
-- Javascript
-- HTML5
-- CSS3
+- Typescript & Javascript
+- HTML5 & CSS3
 - Java
 
 #### Frameworks and stuff:
 - Express
-- Remix
-- Next.js
-- Chakra-ui
-- Framer motion
-- PostgreSQL
-- Prisma
+- Remix & Next.js
+- Chakra-ui & Framer motion
+- PostgreSQL & Prisma
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imexoodeex&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="imexoodeex" /></p>
 
