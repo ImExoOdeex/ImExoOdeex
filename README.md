@@ -9,7 +9,7 @@
 - Java
 
 #### Frameworks and stuff:
-- Express
+- React & Express
 - Remix & Next.js
 - Chakra-ui & Framer motion
 - PostgreSQL & Prisma
