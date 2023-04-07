@@ -17,10 +17,8 @@
 
 ---
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=imexoodeex&show_icons=true&locale=en&bg_color=45,59249F,452287&title_color=fff&text_color=fff" alt="imexoodeex" /></p>
+### See my **[Wakatime profile](https://wakatime.com/@imexoodeex)** ヾ(≧ ▽ ≦)ゝ
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imexoodeex&show_icons=true&locale=en&layout=compact&bg_color=45,59249F,452287&title_color=fff&text_color=fff" alt="imexoodeex" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=imexoodeex&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="imexoodeex" /></p>
 
-<br/>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imexoodeex&layout=compact&bg_color=45,59249F,452287&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imexoodeex&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="imexoodeex" /></p>
